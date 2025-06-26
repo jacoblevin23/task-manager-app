@@ -15,7 +15,6 @@ This is a command-line Task Management Application built with Python 3 and MySQL
 - Clean command-line interface (CLI)
 - Follows Python OOP best practices
 - Input validation and error handling
-- Uses a simple multithreading by writing to a csv file that updates every 10 seconds
 
 ---
 
